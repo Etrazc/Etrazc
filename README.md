@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi! Etrazc is here 😄
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etrazc&layout=compact)
 
-<!--
-**Etrazc/Etrazc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⛓️Links
+- Email: [orbitsteam1317@gmail.com]()
+- Blog: [etrazc.github.io](https://etrazc.github.io)
+- Facebook: [Etrazc ET](https://www.facebook.com/profile.php?id=100054036756705)
+- Instagram: [@etrazc](https://www.instagram.com/etrazc/)
+- LinkStack: [linksta.cc/@etrazc](https://linksta.cc/@etrazc)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👥Team
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=multimediaa&repo=multimediaa.github.io)](https://github.com/multimediaa/multimediaa.github.io)
