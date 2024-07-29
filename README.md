@@ -1,5 +1,6 @@
-### Hi! Etrazc is here 😄
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etrazc&layout=compact)
+<div align="left">
+  <img alt="Logo Multimedia" src="./picture/Negative-Mask.gif" width="240px" height="135px">
+</div>
 
 ### ⛓️Links
 - Email: [orbitsteam1317@gmail.com]()
