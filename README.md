@@ -10,4 +10,5 @@
 - LinkStack: [linksta.cc/@etrazc](https://linksta.cc/@etrazc)
 
 ### 👥Team
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=multimediaa&repo=multimediaa.github.io)](https://github.com/multimediaa/multimediaa.github.io)
+[![school](https://github-readme-stats.vercel.app/api/pin/?username=multimediaa&repo=multimediaa.github.io)](https://github.com/multimediaa/multimediaa.github.io)
+[![community](https://github-readme-stats.vercel.app/api/pin/?username=orbits-1317&repo=orbits-1317.github.io)](https://github.com/orbits-1317/orbits-1317.github.io)
